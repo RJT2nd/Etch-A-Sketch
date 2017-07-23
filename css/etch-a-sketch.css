@@ -1,0 +1,22 @@
+body{
+    background: #000;
+}
+
+.grid {
+    width: 960px;
+    height: 960px;
+}
+
+.square {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+
+    height: 60px;
+    width: 60px;
+    background-color: white
+}
+
+.blue {
+    background-color: blue;
+}
